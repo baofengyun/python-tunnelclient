@@ -1,0 +1,4 @@
+---
+features:
+  - |
+    Adds the ``flavor`` option to vpnserver create and vpnserver list.

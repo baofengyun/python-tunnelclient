@@ -1,0 +1,4 @@
+---
+features:
+  - |
+    Add initial vpn server command ``vpnserver list``.

@@ -1,0 +1,5 @@
+---
+features:
+  - Vpnserver failover command, which allows to trigger failover protocol.
+  - Amphora commands, to query amphorae by ID or by vpnserver ID, etc.
+  - Filter 'list' calls by vpnserver ID, for both listeners and pools.

@@ -1,0 +1,5 @@
+---
+features:
+  - |
+    Optional backup argument for member, in vpnserver member create,
+    and vpnserver member set.

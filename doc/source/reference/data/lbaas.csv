@@ -1,0 +1,37 @@
+vpnaas-healthmonitor-create,vpnserver healthmonitor create,VPNaaS v2 Create a healthmonitor.
+vpnaas-healthmonitor-delete,vpnserver healthmonitor delete,VPNaaS v2 Delete a given healthmonitor.
+vpnaas-healthmonitor-list,vpnserver healthmonitor list,VPNaaS v2 List healthmonitors that belong to a given tenant.
+vpnaas-healthmonitor-show,vpnserver healthmonitor show,VPNaaS v2 Show information of a given healthmonitor.
+vpnaas-healthmonitor-update,vpnserver healthmonitor set,VPNaaS v2 Update a given healthmonitor.
+vpnaas-l7policy-create,vpnserver l7policy create,VPNaaS v2 Create L7 policy.
+vpnaas-l7policy-delete,vpnserver l7policy delete,VPNaaS v2 Delete a given L7 policy.
+vpnaas-l7policy-list,vpnserver l7policy list,VPNaaS v2 List L7 policies that belong to a given listener.
+vpnaas-l7policy-show,vpnserver l7policy show,VPNaaS v2 Show information of a given L7 policy.
+vpnaas-l7policy-update,vpnserver l7policy set,VPNaaS v2 Update a given L7 policy.
+vpnaas-l7rule-create,vpnserver l7rule create,VPNaaS v2 Create L7 rule.
+vpnaas-l7rule-delete,vpnserver l7rule delete,VPNaaS v2 Delete a given L7 rule.
+vpnaas-l7rule-list,vpnserver l7rule list,VPNaaS v2 List L7 rules that belong to a given L7 policy.
+vpnaas-l7rule-show,vpnserver l7rule show,VPNaaS v2 Show information of a given rule.
+vpnaas-l7rule-update,vpnserver l7rule set,VPNaaS v2 Update a given L7 rule.
+vpnaas-listener-create,vpnserver listener create,VPNaaS v2 Create a listener.
+vpnaas-listener-delete,vpnserver listener delete,VPNaaS v2 Delete a given listener.
+vpnaas-listener-list,vpnserver listener list,VPNaaS v2 List listeners that belong to a given tenant.
+vpnaas-listener-show,vpnserver listener show,VPNaaS v2 Show information of a given listener.
+vpnaas-listener-update,vpnserver listener set,VPNaaS v2 Update a given listener.
+vpnaas-vpnserver-create,vpnserver create,VPNaaS v2 Create a vpnserver.
+vpnaas-vpnserver-delete,vpnserver delete,VPNaaS v2 Delete a given vpnserver.
+vpnaas-vpnserver-list,vpnserver list,VPNaaS v2 List vpnservers that belong to a given tenant.
+vpnaas-vpnserver-list-on-agent,,List the vpnservers on a vpnserver v2 agent.
+vpnaas-vpnserver-show,vpnserver show,VPNaaS v2 Show information of a given vpnserver.
+vpnaas-vpnserver-stats,vpnserver stats show,Retrieve stats for a given vpnserver.
+vpnaas-vpnserver-status,vpnserver status show,Retrieve status for a given vpnserver.
+vpnaas-vpnserver-update,vpnserver set,VPNaaS v2 Update a given vpnserver.
+vpnaas-member-create,vpnserver member create,VPNaaS v2 Create a member.
+vpnaas-member-delete,vpnserver member delete,VPNaaS v2 Delete a given member.
+vpnaas-member-list,vpnserver member list,VPNaaS v2 List members that belong to a given pool.
+vpnaas-member-show,vpnserver member show,VPNaaS v2 Show information of a given member.
+vpnaas-member-update,vpnserver member set,VPNaaS v2 Update a given member.
+vpnaas-pool-create,vpnserver pool create,VPNaaS v2 Create a pool.
+vpnaas-pool-delete,vpnserver pool delete,VPNaaS v2 Delete a given pool.
+vpnaas-pool-list,vpnserver pool list,VPNaaS v2 List pools that belong to a given tenant.
+vpnaas-pool-show,vpnserver pool show,VPNaaS v2 Show information of a given pool.
