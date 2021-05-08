@@ -1,2 +1,1 @@
-This is an client plugin for VPNServer modified based on [python-octaviaclient](https://github.com/openstack/python-octaviaclient).  
-You need to have Git installed on your system before install this plugin.
+This is an client plugin for VPNServer modified based on [python-octaviaclient](https://github.com/openstack/python-octaviaclient).
